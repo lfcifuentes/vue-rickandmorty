@@ -78,12 +78,12 @@
         <p>
           <strong>R&M Characters</strong>
           by
-          <a href="https://github.com/luisfercho" target="_blank">
+          <a href="https://github.com/lfcifuentes" target="_blank">
             Luis Fernando Cifuentes
           </a>
           <br>
           <b>GitHub Repo:</b>
-          <a href="https://github.com/luisfercho/vue-rickandmorty" target="_blank">
+          <a href="https://github.com/lfcifuentes/vue-rickandmorty" target="_blank">
             Go to repo
           </a>
           <br>
